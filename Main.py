@@ -10,3 +10,5 @@ print("Since I don't know how to select from a list yet, we will do math.")
 
 answer = input("What is 13 * 13?")
 print("Yes it is 169.")
+
+print("Thank you for playing.")
